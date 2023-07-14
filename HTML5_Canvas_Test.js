@@ -14860,8 +14860,8 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/HTML5 Canvas Test_atlas_1.png", id:"HTML5 Canvas Test_atlas_1"},
-		{src:"images/HTML5 Canvas Test_atlas_2.png", id:"HTML5 Canvas Test_atlas_2"}
+		{src:"https://static.wixstatic.com/media/fa474c_1da4e318d89640079cb493883e1244d3~mv2.png", id:"HTML5 Canvas Test_atlas_1"},
+		{src:"https://static.wixstatic.com/media/fa474c_497fa63e51de4242b7d8df235b4af3b5~mv2.png", id:"HTML5 Canvas Test_atlas_2"}
 	],
 	preloads: []
 };
